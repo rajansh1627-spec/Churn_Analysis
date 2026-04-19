@@ -1,4 +1,5 @@
-Customer Churn Analysis Dashboard
+dynamic-churn-dashboard-python-claude 
+
 📌 Project Overview
 
 This project presents an end-to-end data analysis and dashboard solution where raw data is first cleaned using Python and then transformed into a fully interactive web dashboard using AI (Claude).
